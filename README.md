@@ -35,5 +35,5 @@ During the course, I worked on many projects, but I will focus on the final proj
 - Writing books and short stories
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-pieri-batista-da-silva-607830181/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-pieri-batista-da-silva-607830181/)
 [![E-mail](https://img.shields.io/badge/-E--mail-red)](mailto:joaopbs20111@hotmail.com )
