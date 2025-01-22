@@ -28,12 +28,6 @@ During the course, I worked on many projects, but I will focus on the final proj
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/5f44f1f7-ee9e-47fa-813d-d362233972ba/linked_in_profile)
 - [Fundamentos de Ethical Hacking: curso prático](https://www.udemy.com/certificate/UC-6541394b-1874-4d2a-91ff-c35ab85cd876/)
 
-## 🧩 Hobbies
-- Playing video games with friends
-- Writing song lyrics
-- Designing TTRPG campaigns
-- Writing books and short stories
-
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-pieri-batista-da-silva-607830181/)
 [![E-mail](https://img.shields.io/badge/-E--mail-red)](mailto:joaopbs20111@hotmail.com )
